@@ -24,8 +24,8 @@ Se XP for entre 9.001 e 10.000= Imortal
 Se XP for maior ou igual a 10.001 = Radiante
 ```
 ## Saída
-```
-Ao final deve se exibir uma mensagem:
+__Ao final deve se exibir uma mensagem__
+```bash
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 ```
 ## Como Usar
