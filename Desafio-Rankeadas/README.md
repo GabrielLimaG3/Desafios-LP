@@ -34,7 +34,7 @@ O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**
 git clone https://github.com/GabrielLimaG3/Desafios-LP.git
 
 cd Desafios-LP
-cd Desafio-Heroi
+cd Desafio-Rankeadas
 
 node index.js 
 ```
