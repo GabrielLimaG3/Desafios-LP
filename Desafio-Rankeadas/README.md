@@ -25,6 +25,16 @@ Se vitórias for maior ou igual a 101 = Imortal
 ## Saída
 
 __Ao final deve se exibir uma mensagem__
-```
+```bash
 O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**
+```
+
+## Como Usar
+```bash
+git clone https://github.com/GabrielLimaG3/Desafios-LP.git
+
+cd Desafios-LP
+cd Desafio-Heroi
+
+node index.js 
 ```
